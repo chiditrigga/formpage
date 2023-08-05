@@ -1,6 +1,6 @@
 const Home = () => {
     return ( <div>\
-        how are you workingvvnvnjvfkfck
+        tired
     </div> );
 }
  
